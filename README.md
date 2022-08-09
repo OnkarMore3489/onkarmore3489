@@ -15,6 +15,8 @@ various domains.<br>
 💬Ask me anything, I will be more than happy to help.
 <br>
 
+<h2><b>Tech Stack</h2>
+  
 <h2><b>Summary</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=onkarmore3489&theme=highcontrast)](https://git.io/streak-stats)
@@ -22,9 +24,21 @@ various domains.<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=onkarmore3489&count_private=true&show_icons=true&theme=radical)
 <br>
 
-<h2><b>Tech Stack</h2>
-
 <h3 align="left">Connect with me:</h3>
+  
+  <p align="left">
+
+<a href = "https://www.linkedin.com/in/onkar-more/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/OnkarMore3489"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/omii_more3489/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=onkarmore3489">
+</a>
 
 <!--
 **onkarmore3489/onkarmore3489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
