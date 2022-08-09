@@ -1,9 +1,9 @@
 <h2 align="center"><b>Hi <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="38" width="30"> , I'm Onkar More</h2>
-
 ![GitHub followers](https://img.shields.io/github/followers/onkarmore3489?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/OnkarMore3489?style=social)
 
-<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
+<!--<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>-->
+ <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 <br>
 
 <h2><b>About me</h2>
@@ -37,7 +37,7 @@ various domains.<br>
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=onkarmore3489">
-</a>
+  </a>
 
 <!--
 **onkarmore3489/onkarmore3489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
